@@ -1,9 +1,10 @@
 library(assertr)
 library(skimr)
+library(assertr)
 
 
 # Gereinigter Datensatz laden ---------------------------------------------
-dframe <- read_csv("data/clean/hr_cleaned.csv") 
+dframe <- read_csv("data/clean/hr_cleaned_r.csv") 
 
 
 # Datensatz ansehen -------------------------------------------------------
